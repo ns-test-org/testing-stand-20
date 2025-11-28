@@ -44,7 +44,7 @@ export default function TodoApp() {
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900 py-8 px-4">
       <div className="max-w-md mx-auto bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6">
         <h1 className="text-2xl font-bold text-gray-800 dark:text-white mb-6 text-center">
-          Todo App
+          remix-stand-20-01
         </h1>
         
         {/* Add Todo Input */}
@@ -125,4 +125,5 @@ export default function TodoApp() {
     </div>
   );
 }
+
 
